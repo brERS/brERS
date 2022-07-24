@@ -30,7 +30,7 @@
 
 ##
 
-## Hard Skills 
+## Hard Skills 🦾
 <lu> Linguagem de Programação e suas Frameworks
 - Python
   - Django
@@ -52,6 +52,10 @@
   - Ubuntu 
   - CentOS
   - FreeBSD
+- Switches e Routers 
+  - RouterOS (Mikrotik)
+  - Junos (Juniper)
+  - VRP (Huawei)
 </lu>
 
 <lu>Softwares
@@ -63,6 +67,7 @@
   - Apache
   - Postfix 
   - FreeRadius
+  - Unbound DNS 
 </lu>
 
 
