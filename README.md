@@ -52,6 +52,7 @@
   - Ubuntu 
   - CentOS
   - FreeBSD
+  - Raspberry Pi OS
 - Switches e Routers 
   - RouterOS (Mikrotik)
   - Junos (Juniper)
