@@ -31,7 +31,7 @@
 ##
 
 ## Hard Skills 🦾
-<lu> Linguagem de Programação e suas Frameworks
+<lu> <u>Linguagem de Programação e suas Frameworks</u>
 - Python
   - Django
 - PHP 
