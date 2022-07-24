@@ -31,9 +31,35 @@
 ##
 
 ## Hard Skills 
-<lu> Linguagem de progama
+<lu> Linguagem de Programação e suas Frameworks
 - Python
   - Django
+- PHP 
+  - Codeigniter
+  - Bootstrap 
+  - DataTables
+- Shell Script
 </lu> 
+<lu>Banco de Dados
+- MySQL
+- PostgreSQL
+</lu>
+<lu> Sistemas Operacionais
+- Windows Server
+- Distribuições Linux
+  - Ubuntu 
+  - CentOS
+  - FreeBSD
+</lu>
+<lu>Softwares
+- Monitoramento  
+  - Zabbix 
+  - Grafana
+  - Cacti
+- Servidores
+  - Apache
+  - Postfix 
+  - FreeRadius
+</lu>
 
 
