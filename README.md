@@ -55,7 +55,9 @@
 - Switches e Routers 
   - RouterOS (Mikrotik)
   - Junos (Juniper)
+  - Cisco IOS (Cisco)
   - VRP (Huawei)
+  - 3comOS (3com)
 </lu>
 
 <lu>Softwares
