@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/brERS">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brERS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brERS&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brERS&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ed-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -21,7 +21,7 @@
   <img align="center" alt="Ed-postgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
 
-###
+##
 
 - 🖥️ Atualmente trabalho no cargo de Analista de Desenvolvimento de Sistemas
 - 💡 Sou graduado em Análise e Desenvolvimento de Sistemas Desenvolvimento de Sistemas
