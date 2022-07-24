@@ -39,11 +39,13 @@
   - Bootstrap 
   - DataTables
 - Shell Script
-</lu> 
+</lu>
+
 <lu>Banco de Dados
 - MySQL
 - PostgreSQL
 </lu>
+
 <lu> Sistemas Operacionais
 - Windows Server
 - Distribuições Linux
@@ -51,6 +53,7 @@
   - CentOS
   - FreeBSD
 </lu>
+
 <lu>Softwares
 - Monitoramento  
   - Zabbix 
