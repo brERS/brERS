@@ -58,6 +58,7 @@
   - Cisco IOS (Cisco)
   - VRP (Huawei)
   - 3comOS (3com)
+  - EXOS (Extreme)
 </lu>
 
 <lu>Softwares
