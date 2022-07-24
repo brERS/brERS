@@ -1,7 +1,6 @@
 ## Ei, meu nome é Edgar 🙂
-##### Hi, my name is Edgar 
 
-##
+##### Hi, my name is Edgar 
 
 <div align="center">
   <a href="https://github.com/brERS">
