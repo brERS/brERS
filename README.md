@@ -28,11 +28,12 @@
 - 🖥️ Atualmente trabalho no cargo de Analista de Desenvolvimento de Sistemas
 - 💡 Sou graduado em Análise e Desenvolvimento de Sistemas Desenvolvimento de Sistemas
 
-## Hard Skills 
+##
 
- <lu> reiode
-    <li> oionadcinwed
-    </li>
-    <li>ededed
-    </li>
- </lu>
+## Hard Skills 
+<lu> Linguagem de progama
+- Python
+-- Django
+</lu> 
+
+
