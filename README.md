@@ -33,7 +33,7 @@
 ## Hard Skills 
 <lu> Linguagem de progama
 - Python
--- Django
+  - Django
 </lu> 
 
 
