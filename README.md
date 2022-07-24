@@ -30,7 +30,7 @@
 
 ##
 
-## Hard Skills 🦾
+## My Hard Skills 🦾
 <lu> <u>Linguagem de Programação e suas Frameworks</u>
 - Python
   - Django
@@ -70,7 +70,10 @@
   - Apache
   - Postfix 
   - FreeRadius
-  - Unbound DNS 
+  - Unbound DNS
+  - Teknovus 
+  - UNM2000
+  - U2000
 </lu>
 
 
