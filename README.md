@@ -14,9 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**. Tenho experiência s�
 - 📊 **Engenharia de Dados** - Pipelines com Apache Airflow
 - 🔧 **Coleta Automatizada** - SNMP, Telnet, SSH para monitoramento de equipamentos e geração de insumos para análise
 - ☁️ **Microsoft Fabric** - Aprendizado em andamento
-
----
-
+  
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -25,9 +23,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**. Tenho experiência s�
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brERS&theme=github_dark_dimmed&background=0d1117&mode=weekly">   
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brERS&theme=github_dark">
 </div>
-
-
----
 
 ## 🛠️ Habilitadades
 
