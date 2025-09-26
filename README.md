@@ -5,8 +5,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/brERS?style=social)](https://github.com/brERS)
 [![GitHub stars](https://img.shields.io/github/stars/brERS?style=social)](https://github.com/brERS)
 
----
-
 ## 🎯 Sobre Mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas**. Tenho experiência sólida em desenvolvimento web, administração de sistemas e infraestrutura de rede.
