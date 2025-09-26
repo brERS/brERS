@@ -1,84 +1,101 @@
-## Ei, meu nome é Edgar 🙂
+# Edgar Reis
 
-##### Hi, my name is Edgar 
+**Analista de Desenvolvimento de Sistemas** | **Desenvolvedor Full-Stack** | **Automação & Telecomunicações**
+
+[![GitHub followers](https://img.shields.io/github/followers/brERS?style=social)](https://github.com/brERS)
+[![GitHub stars](https://img.shields.io/github/stars/brERS?style=social)](https://github.com/brERS)
+
+---
+
+## 🎯 Sobre Mim
+
+Sou formado em **Análise e Desenvolvimento de Sistemas**. Tenho experiência sólida em desenvolvimento web, administração de sistemas e infraestrutura de rede.
+
+### 🎯 Foco Atual (2024-2025)
+- 💻 **Desenvolvimento Web** - Aplicações robustas usando Django
+- 📊 **Engenharia de Dados** - Pipelines com Apache Airflow
+- 🔧 **Coleta Automatizada** - SNMP, Telnet, SSH para monitoramento de equipamentos e geração de insumos para análise
+- ☁️ **Microsoft Fabric** - Aprendizado em andamento
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/brERS">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brERS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brERS&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-<div style="display: inline_block"><br/>
-	<code><img alt="Ed-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-	<code><img alt="Ed-Django" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></code>
-	<code><img alt="Ed-PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
-	<code><img alt="Ed-codeigniter" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" /></code>
-	<code><img alt="Ed-bootstrap" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></code>
-	<code><img alt="Ed-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></code>
-	<code><img alt="Ed-css" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></code>
-	<code><img alt="Ed-JavaScript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></code>
-	<code><img alt="Ed-linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-	<code><img alt="Ed-Bash" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
-	<code><img alt="Ed-Raspberry" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></code>
-	<code><img alt="Ed-Apache" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" /></code>
-	<code><img alt="Ed-mqsl" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
-	<code><img alt="Ed-postgreSQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></code>
-	<code><img alt="Ed-Grafana" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
-
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brERS&theme=github_dark">
+  <!-- Streak -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brERS&theme=github_dark_dimmed&background=0d1117&mode=weekly">   
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brERS&theme=github_dark">
 </div>
 
-##
 
-- 🖥️ Atualmente trabalho no cargo de Analista de Desenvolvimento de Sistemas
-- 💡 Sou graduado em Análise e Desenvolvimento de Sistemas
+---
 
-##
+## 🛠️ Habilitadades
 
-## My Hard Skills 🦾
-<lu> <u>Linguagem de Programação e suas Frameworks</u>
-- Python
-  - Django
-- PHP 
-  - Codeigniter
-  - Bootstrap 
-  - DataTables
-- Shell Script
-</lu>
+### **Desenvolvimento & Automação**
+```yaml
+Backend: Python (Django, FastAPI), PHP (CodeIgniter)
+Automação: Python Scripts, Shell Script, RPA Web
+APIs: REST
+Containerização: Docker, Docker Compose
+```
 
-<lu>Banco de Dados
-- MySQL
-- PostgreSQL
-</lu>
+### **Engenharia de Dados & ETL**
+```yaml
+Orquestração: Apache Airflow
+Bancos: PostgreSQL, MySQL, SQL Server
+Analytics: Microsoft Fabric (em aprendizado)
+Visualização: Grafana, Power BI
+```
 
-<lu> Sistemas Operacionais
-- Windows Server
-- Distribuições Linux
-  - Ubuntu 
-  - CentOS
-  - FreeBSD
-  - Raspberry Pi OS
-- Switches e Routers 
-  - RouterOS (Mikrotik)
-  - Junos (Juniper)
-  - Cisco IOS (Cisco)
-  - VRP (Huawei)
-  - 3comOS (3com)
-  - EXOS (Extreme)
-</lu>
+### **Servidores & Infraestrutura**
+```yaml
+Servidores: Apache, Nginx, Linux (Ubuntu)
+Monitoramento: Zabbix (Avançado), Grafana
+Sistemas: Windows Server, Ubuntu Server, Raspberry Pi
+```
 
-<lu>Softwares
-- Monitoramento  
-  - Zabbix 
-  - Grafana
-  - Cacti
-- Servidores
-  - Apache
-  - Postfix 
-  - FreeRadius
-  - Unbound DNS
-  - Teknovus 
-  - UNM2000
-  - U2000
-</lu>
+### **Telecomunicações & Redes**
+```yaml
+Protocolos: SNMP, BGP, OSPF, PPPoE, GPON
+Equipamentos: Cisco, Huawei, Juniper, Mikrotik, Fiberhome
+Autenticação: FreeRADIUS, AAA, LDAP
+Switching: VLANs, STP, Layer 2/3 protocols
+Access: OLTs GPON, BNGs, ONTs management
+```
+---
 
+## 🏆 Experiência Profissional
+
+- Desenvolvimento de aplicações web completas
+- Administração de sistemas Linux/Windows
+- Implementação de soluções de monitoramento
+- Gestão de infraestrutura de rede
+- Automação de processos operacionais
+
+---
+
+
+## 📫 Vamos Conectar?
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-r-63105697)
+
+
+</div>
+
+
+<div align="center">
+  
+### 💡 "A automação não substitui o pensamento humano, ela o amplifica."
+
+*Transformando dados telecom em insights acionáveis* 📊
+
+</div>
+
+---
+
+⭐ **Se meus projetos te inspiraram, considere dar uma estrela!** ⭐
 
