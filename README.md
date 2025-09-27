@@ -4,7 +4,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/brERS?style=social)](https://github.com/brERS)
 [![GitHub stars](https://img.shields.io/github/stars/brERS?style=social)](https://github.com/brERS)
-
+[![asn-nmap](https://static.pepy.tech/personalized-badge/asn-nmap?period=total&units=INTERNATIONAL_SYSTEM&left_color=GRAY&right_color=GREEN&left_text=asn-nmap)](https://pepy.tech/projects/asn-nmap)
+[![iptables-tools](https://static.pepy.tech/personalized-badge/iptables-tools?period=total&units=INTERNATIONAL_SYSTEM&left_color=GRAY&right_color=GREEN&left_text=iptables-tools)](https://pepy.tech/projects/iptables-tools)
 ## 🎯 Sobre Mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas**. Tenho experiência sólida em desenvolvimento web, administração de sistemas e infraestrutura de rede.
